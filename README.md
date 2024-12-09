@@ -1,0 +1,1 @@
+# QR-Code-detection-and-encryption-using-pyzbar
